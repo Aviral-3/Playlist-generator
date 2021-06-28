@@ -1,2 +1,2 @@
 # Playlist-generator
-PLAYLIS GENERATOR 
+PLAYLIST GENERATOR 
